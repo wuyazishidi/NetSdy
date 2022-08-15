@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UOMiBlE9PnZ6+OEOGkH4dxEPKKDCnnoPGQX9zTcmKe6yJwP39LpjcKfGCL6nYbVdinFNphM4eg5PT7DbOk5XRg==",
+  "success": true,
+  "projectFilePath": "H:\\Jwp\\GitPro\\AsyncNet\\AsyncNetSeverExample\\AsyncNetSeverExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\asyncnet\\1.0.0\\asyncnet.1.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

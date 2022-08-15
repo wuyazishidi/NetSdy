@@ -1,0 +1,17 @@
+H:\Jwp\GitPro\AsyncNet\AsyncNetSeverExample\bin\Debug\netcoreapp3.1\AsyncNetSeverExample.exe
+H:\Jwp\GitPro\AsyncNet\AsyncNetSeverExample\bin\Debug\netcoreapp3.1\AsyncNetSeverExample.deps.json
+H:\Jwp\GitPro\AsyncNet\AsyncNetSeverExample\bin\Debug\netcoreapp3.1\AsyncNetSeverExample.runtimeconfig.json
+H:\Jwp\GitPro\AsyncNet\AsyncNetSeverExample\bin\Debug\netcoreapp3.1\AsyncNetSeverExample.runtimeconfig.dev.json
+H:\Jwp\GitPro\AsyncNet\AsyncNetSeverExample\bin\Debug\netcoreapp3.1\AsyncNetSeverExample.dll
+H:\Jwp\GitPro\AsyncNet\AsyncNetSeverExample\bin\Debug\netcoreapp3.1\AsyncNetSeverExample.pdb
+H:\Jwp\GitPro\AsyncNet\AsyncNetSeverExample\bin\Debug\netcoreapp3.1\AsyncNet.dll
+H:\Jwp\GitPro\AsyncNet\AsyncNetSeverExample\bin\Debug\netcoreapp3.1\AsyncNet.pdb
+H:\Jwp\GitPro\AsyncNet\AsyncNetSeverExample\obj\Debug\netcoreapp3.1\AsyncNetSeverExample.csproj.AssemblyReference.cache
+H:\Jwp\GitPro\AsyncNet\AsyncNetSeverExample\obj\Debug\netcoreapp3.1\AsyncNetSeverExample.GeneratedMSBuildEditorConfig.editorconfig
+H:\Jwp\GitPro\AsyncNet\AsyncNetSeverExample\obj\Debug\netcoreapp3.1\AsyncNetSeverExample.AssemblyInfoInputs.cache
+H:\Jwp\GitPro\AsyncNet\AsyncNetSeverExample\obj\Debug\netcoreapp3.1\AsyncNetSeverExample.AssemblyInfo.cs
+H:\Jwp\GitPro\AsyncNet\AsyncNetSeverExample\obj\Debug\netcoreapp3.1\AsyncNetSeverExample.csproj.CoreCompileInputs.cache
+H:\Jwp\GitPro\AsyncNet\AsyncNetSeverExample\obj\Debug\netcoreapp3.1\AsyncNetSeverExample.csproj.CopyComplete
+H:\Jwp\GitPro\AsyncNet\AsyncNetSeverExample\obj\Debug\netcoreapp3.1\AsyncNetSeverExample.dll
+H:\Jwp\GitPro\AsyncNet\AsyncNetSeverExample\obj\Debug\netcoreapp3.1\AsyncNetSeverExample.pdb
+H:\Jwp\GitPro\AsyncNet\AsyncNetSeverExample\obj\Debug\netcoreapp3.1\AsyncNetSeverExample.genruntimeconfig.cache

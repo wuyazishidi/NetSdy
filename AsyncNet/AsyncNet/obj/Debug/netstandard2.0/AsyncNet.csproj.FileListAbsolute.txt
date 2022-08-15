@@ -1,0 +1,10 @@
+H:\Jwp\GitPro\AsyncNet\AsyncNet\bin\Debug\netstandard2.0\AsyncNet.deps.json
+H:\Jwp\GitPro\AsyncNet\AsyncNet\bin\Debug\netstandard2.0\AsyncNet.dll
+H:\Jwp\GitPro\AsyncNet\AsyncNet\bin\Debug\netstandard2.0\AsyncNet.pdb
+H:\Jwp\GitPro\AsyncNet\AsyncNet\obj\Debug\netstandard2.0\AsyncNet.GeneratedMSBuildEditorConfig.editorconfig
+H:\Jwp\GitPro\AsyncNet\AsyncNet\obj\Debug\netstandard2.0\AsyncNet.AssemblyInfoInputs.cache
+H:\Jwp\GitPro\AsyncNet\AsyncNet\obj\Debug\netstandard2.0\AsyncNet.AssemblyInfo.cs
+H:\Jwp\GitPro\AsyncNet\AsyncNet\obj\Debug\netstandard2.0\AsyncNet.csproj.CoreCompileInputs.cache
+H:\Jwp\GitPro\AsyncNet\AsyncNet\obj\Debug\netstandard2.0\AsyncNet.dll
+H:\Jwp\GitPro\AsyncNet\AsyncNet\obj\Debug\netstandard2.0\AsyncNet.pdb
+H:\Jwp\GitPro\AsyncNet\AsyncNet\obj\Debug\netstandard2.0\AsyncNet.csproj.AssemblyReference.cache

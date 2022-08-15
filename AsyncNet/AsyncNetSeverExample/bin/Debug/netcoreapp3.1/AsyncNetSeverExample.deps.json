@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AsyncNetSeverExample/1.0.0": {
+        "dependencies": {
+          "AsyncNet": "1.0.0"
+        },
+        "runtime": {
+          "AsyncNetSeverExample.dll": {}
+        }
+      },
+      "AsyncNet/1.0.0": {
+        "runtime": {
+          "AsyncNet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AsyncNetSeverExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AsyncNet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
